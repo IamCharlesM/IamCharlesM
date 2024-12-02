@@ -14,7 +14,7 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="35%" align="right" alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
+<img width="25%" align="right" alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
 
 - 👨🏽‍💻 I’m currently working on open-source Wix template;
 - 🌱 I’m currently learning RAG stack;
