@@ -14,7 +14,7 @@
 
 **Talking about Personal Stuffs:**
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; flex-direction: row;">
 
 <div style="max-width: 50%">
   
