@@ -29,7 +29,7 @@
 </div>
 
 <div style="max-width: 50%">
-<img align="right" alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
+<img alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
 </div>
 
 </div>
