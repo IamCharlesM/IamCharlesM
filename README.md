@@ -53,12 +53,6 @@
 
 &nbsp;
 
----
-
-## 📦 Featured Projects
-
----
-
 <p align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/IamCharlesM/IamCharlesM.svg" />
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=IamCharlesM.IamCharlesM" />
