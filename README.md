@@ -14,25 +14,15 @@
 
 **Talking about Personal Stuffs:**
 
-<div style="display: flex; align-items: center; flex-direction: row;">
+<img width="40%" align="right" alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
 
-<div style="max-width: 50%">
-  
-- 👨🏽‍💻 I’m currently working on open-source Wix template;  
-- 🌱 I’m currently learning RAG stack;  
-- 👯 I’m looking to collaborate on open-source projects focused on social impact;  
-- 🤔 I’m looking for help with networking with other engineers;  
-- 💬 Ask me about web development, RAG, and SEO—I’m happy to share insights!  
-- ⚡️ Fun-Fact: I've been a dancer since I was 4 years old;  
+- 👨🏽‍💻 I’m currently working on open-source Wix template;
+- 🌱 I’m currently learning RAG stack;
+- 👯 I’m looking to collaborate on open-source projects focused on social impact;
+- 🤔 I’m looking for help with networking with other engineers;
+- 💬 Ask me about web development, RAG, and SEO—I’m happy to share insights!
+- ⚡️ Fun-Fact: I've been a dancer since I was 4 years old;
 - 📫 How to reach me: [Contact form](https://charlesisa.dev/#contact-me).
-
-</div>
-
-<div style="max-width: 50%">
-<img alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
-</div>
-
-</div>
 
 ---
 
