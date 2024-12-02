@@ -28,8 +28,8 @@
 
 </div>
 
-<div style="flex: 1; text-align: right;">
-<img alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
+<div style="flex: 1;">
+<img align="right" alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
 </div>
 
 </div>
