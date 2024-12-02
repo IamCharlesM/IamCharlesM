@@ -16,7 +16,7 @@
 
 <div style="display: flex; align-items: center;">
 
-<div style="flex: 1;">
+<div style="max-width: 50%">
   
 - 👨🏽‍💻 I’m currently working on open-source Wix template;  
 - 🌱 I’m currently learning RAG stack;  
@@ -28,7 +28,7 @@
 
 </div>
 
-<div style="flex: 1;">
+<div style="max-width: 50%">
 <img align="right" alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
 </div>
 
