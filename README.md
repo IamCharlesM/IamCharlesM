@@ -6,7 +6,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IamCharlesM)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/forcharles)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=Google-Chrome&logoColor=white)](https://charlesisa.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=Google-Chrome&logoColor=white)](https://charlesisa.dev/?ref=github)
 
 &nbsp;
 
