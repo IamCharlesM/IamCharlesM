@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What’s up?</h1>
+<h1 align="center">Hey 👋🏿 What’s up?</h1>
 
 ---
 
@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <strong>Hi, I’m Charles — a full-stack developer driven by problem solving and social impact.</strong><br />
+  <strong>Hi, I’m Charles — a full-stack developer driven by problem-solving and social impact.</strong><br />
   Building practical, accessible systems with a focus on real-world use.
 </div>
 
@@ -40,7 +40,7 @@
 
 <img width="25%" align="right" alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
 
-### 👋 A bit more about me
+### 👋🏿 A bit more about me
 
 - 👨🏽‍💻 Currently working on open-source templates and modern web systems  
 - 🌱 Learning and experimenting with RAG stacks and AI-assisted workflows  
@@ -48,18 +48,7 @@
 - 🤔 Actively improving how I connect and collaborate with other engineers  
 - 💬 Happy to talk about web development, RAG, SEO, and system design  
 - ⚡ Fun fact: I’ve been a dancer since I was 4 years old  
-- 📫 Reach me via [my contact form](https://charlesisa.dev/#contact-me)
-
----
-
-<p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IamCharlesM&theme=dracula)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IamCharlesM&theme=dracula&row=1&column=6)
-
-</p>
-
----
+- 📫 Reach me via [my contact form](https://www.charlesisa.dev/contact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamCharlesM/IamCharlesM/output/pacman-contribution-graph-dark.svg" />
