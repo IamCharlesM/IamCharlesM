@@ -1,61 +1,58 @@
-<!-- Your title -->
+<h1 align="center">Hey 👋 What’s up?</h1>
 
-## Hi, I'm Charles, a Full Stack Developer with a drive for problem solving
+###
 
-<!-- Your badges -->
+<div align="center">
+  <a href="https://charlesisa.dev/?ref=github">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=Google-Chrome&label=&color=24292e&logoColor=white&style=for-the-badge" height="25" alt="website" />
+      </div>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IamCharlesM)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/forcharles)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=Google-Chrome&logoColor=white)](https://charlesisa.dev/?ref=github)
 
-&nbsp;
 
-<!-- Talking about you -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/forcharles/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/charles.the.builder">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram" />
+  </a>
+</div>
 
-**Talking about Personal Stuffs:**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IamCharlesM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=IamCharlesM&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+</div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamCharlesM/IamCharlesM/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamCharlesM/IamCharlesM/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IamCharlesM/IamCharlesM/output/pacman-contribution-graph.svg" />
+</picture>
+
+###
+
+<div align="center">
+  <strong>Hi, I’m Charles — a full‑stack developer driven by problem solving and social impact.</strong><br />
+  Building practical, accessible systems with a focus on real‑world use.
+</div>
+
+###
+
+<div>
 
 <img width="25%" align="right" alt="cozy-desk" src="https://i.gifer.com/3YDc.gif" />
 
-- 👨🏽‍💻 I’m currently working on open-source Wix template;
-- 🌱 I’m currently learning RAG stack;
-- 👯 I’m looking to collaborate on open-source projects focused on social impact;
-- 🤔 I’m looking for help with networking with other engineers;
-- 💬 Ask me about web development, RAG, and SEO—I’m happy to share insights!
-- ⚡️ Fun-Fact: I've been a dancer since I was 4 years old;
-- 📫 How to reach me: [Contact form](https://charlesisa.dev/#contact-me).
+<ul>
+  <li>👨🏽‍💻 Currently working on open‑source templates and modern web systems</li>
+  <li>🌱 Learning and experimenting with RAG stacks and AI‑assisted workflows</li>
+  <li>👯 Open to collaborating on open‑source and social‑impact projects</li>
+  <li>🤔 Actively improving how I connect and collaborate with other engineers</li>
+  <li>💬 Happy to talk about web development, RAG, SEO, and system design</li>
+  <li>⚡ Fun fact: I’ve been a dancer since I was 4 years old</li>
+  <li>📫 Reach me via <a href="https://charlesisa.dev/#contact-me">my contact form</a></li>
+</ul>
 
----
-
-**Languages and Tools:**
-
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-</p>
-
----
-
-<!-- Your stats -->
-<p>
-  <a href="https://github.com/IamCharlesM">
-    <img width="55%" align="right" alt="Charles McGregory's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IamCharlesM&show_icons=true&hide_border=true" />
-  </a>
-</p>
-
-&nbsp;
-
-<p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/IamCharlesM/IamCharlesM.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=IamCharlesM.IamCharlesM" />
-</p>
-
-⭐️ From [Charles McGregory](https://github.com/IamCharlesM)
+</div>
