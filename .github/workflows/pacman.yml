@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check for supply-chain payload (before install)
+        run: bash scripts/check-payload.sh
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: IamCharlesM
